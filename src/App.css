@@ -1,0 +1,10 @@
+#root{
+  background-color: aqua;
+}
+.ms-Nav{
+  background-color: white;
+}
+.ms-Grid-col{
+  padding-left: 0;
+  margin-left: 0;
+}
