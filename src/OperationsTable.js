@@ -11,7 +11,7 @@ const container = {
 
 const operations=[
     {
-        from:'0000 0688 5757 5123 5422',
+        from:'5757 5123 5422',
         to:'0000 0688 5757 5123 5422',
         amount:'$123',
         date:'09-09-2020'
